@@ -1,0 +1,14 @@
+{
+    "name": "nirmalgithubpage",
+    "version": "1.0.0",
+    "description": "This is Nirmal's GitHub Page",
+    "main": "index.js",
+    "scripts": {
+        "start": "live-server --port=8080 --open=./index.html"
+    },
+    "author": "Nirmal",
+    "license": "ISC",
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
+}
